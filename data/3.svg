@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVG" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="_02" data-name="02">
+    <path class="cls-1" d="m50,12c20.95,0,38,17.05,38,38s-17.05,38-38,38S12,70.95,12,50,29.05,12,50,12m0-12C22.39,0,0,22.39,0,50s22.39,50,50,50,50-22.39,50-50S77.61,0,50,0h0Z"/>
+  </g>
+</svg>
